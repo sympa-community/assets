@@ -1,0 +1,9 @@
+markdown: kramdown
+remote_theme: sympa-community/sympa-pages-theme
+include:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - README.md
+plugins:
+  - jekyll-readme-index
+  - jekyll-redirect-from
